@@ -733,7 +733,7 @@ async def auto_filter(client, msg, spoll=False):
             **locals()
         )
     else:
-       cap = f"Mᴏᴠɪᴇ Nᴀᴍᴇ 🎞️ : <code>{search}</code>\n\n🔗 Join : @MainChannal2k/3 🔗 \n\n This Msg will delete in 10 min \n\n Note :Check Spelling Of The Movie Name,year \n\n iF You Don't Know To Download Movie then watch the video below 👇"
+       cap = f"Mᴏᴠɪᴇ Nᴀᴍᴇ 🎞️ : <code>{search}</code>\n\n🔗 Join : @MainChannal2k/3 🔗 \n\n This Msg will delete in 10 min \n\n Note :Check Spelling Of The Movie Name, Year \n\n iF You Don't Know To Download Movie Then Watch The Video Below 👇"
 
     if imdb and imdb.get('poster'):
         try:
