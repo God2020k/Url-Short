@@ -108,7 +108,7 @@ async def next_page(bot, query):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/MainChannel2k/6')
+            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/MainChannal2k/3')
         ]
     )
 
@@ -434,8 +434,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('⚡ Updates ⚡', url='https://t.me/Update22k'),
-            InlineKeyboardButton('⚡Main Channel⚡', url='https://t.me/MainChannel2k')
+            InlineKeyboardButton('⚡ Updates ⚡', url='https://t.me/Update2k'),
+            InlineKeyboardButton('⚡Main Channel⚡', url='https://t.me/+vEiMt6LFAmxjMzY1')
         ], [
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
@@ -682,7 +682,7 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/MainChannel2k/6')
+            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/MainChannal2k/3')
         ]
     )
 
@@ -733,7 +733,7 @@ async def auto_filter(client, msg, spoll=False):
             **locals()
         )
     else:
-       cap = f"Mᴏᴠɪᴇ Nᴀᴍᴇ 🎞️ : <code>{search}</code>\n\n🔗 Join : @MainChannel2k 🔗 \n\n This Msg will delete in 2 min \n\n Note : If your movie is not below then check spelling of the movie name,year.or /n/n Example Love Today,Love Today 2022 \n\n If you don't know to download movie then watch the video below 👇"
+       cap = f"Mᴏᴠɪᴇ Nᴀᴍᴇ 🎞️ : <code>{search}</code>\n\n🔗 Join : @MainChannal2k/3 🔗 \n\n This Msg will delete in 10 min \n\n Note :Check Spelling Of The Movie Name,year \n\n iF You Don't Know To Download Movie then watch the video below 👇"
 
     if imdb and imdb.get('poster'):
         try:
