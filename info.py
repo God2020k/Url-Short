@@ -86,6 +86,6 @@ DOWNLOAD_TEXT_URL = "https://t.me/MainChannal2k/3"
 
    # Custom Caption Under Button #
 CAPTION_BUTTON = "Updates"
-CAPTION_BUTTON_URL = "https://t.me/Update2k"
+CAPTION_BUTTON_URL = "t.me/Update2k"
 
    # Auto Delete For Bot Sending Files #
