@@ -23,10 +23,10 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('⚡ Updates⚡', url='https://t.me/Update22k')
+                InlineKeyboardButton('⚡ Updates⚡', url='https://t.me/Update2k')
             ],
             [
-                InlineKeyboardButton('⚡Main Channel⚡', url='https://t.me/MainChannel2k'),
+                InlineKeyboardButton('⚡Main Channel⚡', url='https://t.me/MainChannal2k'),
             ],
             [
                 InlineKeyboardButton(text=DOWNLOAD_TEXT_NAME,url=DOWNLOAD_TEXT_URL)
@@ -47,8 +47,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ Updates⚡', url='https://t.me/Update22k'),
-            InlineKeyboardButton('⚡Main Channel⚡', url='https://t.me/MainChannel2k')
+            InlineKeyboardButton('⚡ Updates⚡', url='https://t.me/Update2k'),
+            InlineKeyboardButton('⚡Main Channel⚡', url='https://t.me/MainChannal2k')
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
@@ -93,8 +93,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ Updates ⚡', url='https://t.me/Update22k'),
-            InlineKeyboardButton('⚡Main Channel⚡', url='https://t.me/MainChannel2k')
+            InlineKeyboardButton('⚡ Updates ⚡', url='https://t.me/Update2k'),
+            InlineKeyboardButton('⚡Main Channel⚡', url='https://t.me/MainChannal2k')
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
