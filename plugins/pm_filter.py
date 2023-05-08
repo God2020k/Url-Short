@@ -108,7 +108,7 @@ async def next_page(bot, query):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/MainChannel2k/6')
+            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/MainChannal2k/3')
         ]
     )
 
@@ -682,7 +682,7 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/MainChannel2k/6')
+            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/MainChannal2k/3')
         ]
     )
 
@@ -733,7 +733,7 @@ async def auto_filter(client, msg, spoll=False):
             **locals()
         )
     else:
-        cap = f"Mᴏᴠɪᴇ Nᴀᴍᴇ 🎞️ : <code>{search}</code>\n\n🔗 Join : @MainChannel2k 🔗 \n\n This Msg will delete in 2 min \n\n Note : If your movie is not below then check spelling of the movie name,year.or  /n/n Example,Love Today ,Love Today 2022  \n\n If you don't know to download movie then watch the video below 👇"
+        cap = f"Mᴏᴠɪᴇ Nᴀᴍᴇ 🎞️ : <code>{search}</code>\n\n🔗 Join : @MainChannal2k 🔗 \n\n This Msg Will Delete In 10 Min \n\n Note : If Your Movie Is Not Below Then Check Spelling Of The Movie Name,year.Or Else Wait Till Our Admin Upload The Movie And Reply To You! Contact :@Channeladmin2k_bot \n\n If You Don't Know To Download Movie Then Watch The Video Below 👇""
     if imdb and imdb.get('poster'):
         try:
             hehe =  await message.reply_photo(photo=imdb.get('poster'), caption=cap[:1024],
